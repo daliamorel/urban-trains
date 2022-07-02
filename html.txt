@@ -1,0 +1,23 @@
+<ul> lista desordenada
+<ol> lista ordenada
+<li> elementos de la lista
+<a href="link"> links
+https://picsum.photos/
+www.lipsum.com
+<br> bj de renglon
+<table> tabla
+<thead> cabeza tabla
+<tbody> cuerpo tabla
+<strong> negrita
+<em> cursiva
+MDN -> INFO DE TODO  ej: mdn html
+<hr> crea una linea
+<input type="tipo de campo"> campos del formulario
+<label> titulo de lo que se pide del formulario
+types: 
+checkbox -> cuadradito con tick
+text -> texto
+radio -> circulito selecciona uno solo
+<select> seleccionar opcion
+<option> opciones para select
+<button> boton
